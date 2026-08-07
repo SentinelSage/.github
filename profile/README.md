@@ -2,7 +2,7 @@
 
 **Protective and ethical AI systems** — research demos and applications that sit between people and fluent harm (rushed trust, rushed action, false certainty).
 
-Built by [Ryan Vong](https://github.com/ryanvong) · Studio site: **[sentinelsage.com](https://sentinelsage.com)**
+Built by [Ryan Vong](https://github.com/rvong65) · Studio site: **[sentinelsage.com](https://sentinelsage.com)**
 
 ---
 
